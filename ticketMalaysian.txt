@@ -1,0 +1,3 @@
+Adult-RM10
+Children-RM5
+SeniorCitizen-RM8
